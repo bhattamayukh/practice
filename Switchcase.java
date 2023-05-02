@@ -25,8 +25,5 @@ public class Switchcase {
 		    default:
 		        System.out.println("Weekend");
 		}
-
-
 	}
-
 }
